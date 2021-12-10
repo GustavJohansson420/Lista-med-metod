@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ja.exe
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ja.deps.json
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ja.runtimeconfig.json
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ja.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ja.dll
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ref\ja.dll
+C:\Users\Admin\Desktop\ja\bin\Debug\net5.0\ja.pdb
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.dll
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ref\ja.dll
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.pdb
+C:\Users\Admin\Desktop\ja\obj\Debug\net5.0\ja.genruntimeconfig.cache
